@@ -58,17 +58,15 @@
                         continuously innovate and inspire others in the kitchen.</p>
                 </div>
                 <div class="col-lg-6">
-                    <!-- Insert an image related to your story here -->
                     <img src="images/bg/about.png" class="img-fluid" alt="Our Story">
                 </div>
             </div>
         </section>
 
-        <!-- Values -->
+ <!-- Values -->
         <section id="values" class="my-5">
             <div class="row">
                 <div class="col-lg-6">
-                    <!-- Insert an image related to your values here -->
                     <img src="images/exp.png"" class="img-fluid" alt="Our Values">
                 </div>
                 <div class="col-lg-6">
